@@ -1,1 +1,1 @@
-Java Homework Submissions
+Java Class Submissions
