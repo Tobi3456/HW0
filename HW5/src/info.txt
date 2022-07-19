@@ -1,0 +1,6 @@
+Vehicle,Speed,Time
+Suv,60,5,
+Bicycle,8,2,
+Motorbike,14,3,
+Pickup,20,4,
+Scooter,12,9,
