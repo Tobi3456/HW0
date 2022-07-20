@@ -51,7 +51,7 @@ public class HW5{
 			//creating a conditional to only print distance method to matching vechiles
 			if(fn.equals(vc+".txt")){
 			//calculating the distance
-			out.println(distance(Integer.valueOf(speed),Integer.valueOf(time)));
+				out.println(distance(Integer.valueOf(speed),Integer.valueOf(time)));
 			}
 		}
 		out.close();
