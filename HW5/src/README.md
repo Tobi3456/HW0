@@ -1,4 +1,5 @@
-This folder contains 3 files. 
-"info" is the input file containing the speed values(download this).
-"john" is the sample output when a new file is created.
-"HW5" is the java file.
+This folder contains 7 files. 
+"info.txt" is the input file containing the speed values(download this).
+"HW5.java" is the java file.
+The remaining txt files are sample outputs i got after running the program
+
